@@ -3,7 +3,7 @@
 Greetings, fellow adventurers in the world of automated web testing! 🤖🌐
 
 ## Overview
-Are you just like me tired of mundane, Daily applying and endless forms to fill? Have you ever dreamt of teaching computer to surf the internet and apply jobs while you have yoga or play vedio games? Look no further! Behold, that was my ambisious attempt **AccidentTestAutomation**, a testament to my six hours of glorious tinkering and the promise of more curious weeks to come. 🕒🤔
+Are you just like me tired of mundane, Daily applying and endless forms to fill? Have you ever dreamt of teaching computer to surf the internet and apply jobs while you have yoga or play video games? Look no further! Behold, that was my ambisious attempt **AccidentTestAutomation**, a testament to my six hours of glorious tinkering and the promise of more curious weeks to come. 🕒🤔
 
 ## Project Contents
 
